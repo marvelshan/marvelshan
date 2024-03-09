@@ -2,7 +2,9 @@
 
 ###
 
-<img align="right" height="150" src="https://media.tenor.com/yzQj6APQvAQAAAAi/jones-beagle.gif"  />
+
+
+<img align="right" height="400" src="https://media.tenor.com/yzQj6APQvAQAAAAi/jones-beagle.gif"  />
 
 ###
 
