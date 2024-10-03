@@ -1,14 +1,11 @@
-<h2 align="left">Hi 👋! My name is Zaki</h2>
-
-###
+<h1 align="left">Hi 👋! My name is Zaki</h1>
 
 
+<img align="right" height="200" style="margin-top: 0px;" src="https://media.tenor.com/yzQj6APQvAQAAAAi/jones-beagle.gif" />
 
-<img align="right" height="200" src="https://media.tenor.com/yzQj6APQvAQAAAAi/jones-beagle.gif"  />
 
-###
+### Profile 💻
 
-##  Profile 💻
 Property                 | Data  
 -------------------------|------
 Language                 | ![Javascript Badge](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=Javascript&logoColor=white) ![Python Badge](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=white)
