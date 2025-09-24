@@ -11,5 +11,4 @@
 
 - I'm driven by the desire to contribute to the open source community and help the world of software engineering thrive.
 
-- Currently, I'm diving deep into learning TypeScript and Rust.
 
