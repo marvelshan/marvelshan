@@ -1,4 +1,4 @@
-## Hi! 👋 My name is Zaki
+## Hi! 👋 My name is Zak
 
 
 <img align="right" height="200" style="margin-top: 0px;" src="https://media.tenor.com/yzQj6APQvAQAAAAi/jones-beagle.gif" />
